@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile -i Notepad.ico -n Notepad --clean final.py
